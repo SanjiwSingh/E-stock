@@ -15,5 +15,6 @@ A simple stock trading frontend project built using **HTML**, **CSS**, and **Jav
 - CSS3
 - JavaScript (Vanilla)
 
-## 📂 Folder Structure
+## 🔗 Live Demo
+[Click here to view the app](https://sanjiwsingh.github.io/E-stock/)
 
